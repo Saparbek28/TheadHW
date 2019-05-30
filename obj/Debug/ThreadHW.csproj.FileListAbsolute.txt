@@ -1,0 +1,7 @@
+C:\Users\БайназарС.CORP\source\repos\ThreadHW\bin\Debug\ThreadHW.exe.config
+C:\Users\БайназарС.CORP\source\repos\ThreadHW\bin\Debug\ThreadHW.exe
+C:\Users\БайназарС.CORP\source\repos\ThreadHW\bin\Debug\ThreadHW.pdb
+C:\Users\БайназарС.CORP\source\repos\ThreadHW\obj\Debug\ThreadHW.csprojAssemblyReference.cache
+C:\Users\БайназарС.CORP\source\repos\ThreadHW\obj\Debug\ThreadHW.csproj.CoreCompileInputs.cache
+C:\Users\БайназарС.CORP\source\repos\ThreadHW\obj\Debug\ThreadHW.exe
+C:\Users\БайназарС.CORP\source\repos\ThreadHW\obj\Debug\ThreadHW.pdb
